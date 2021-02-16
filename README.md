@@ -12,6 +12,6 @@ Example:
 
 HTML structure:
 
-'<head>' contains '<styles>' and '<script>'
-'<body>' contains '<div>' tag
-'<script>' is making a map
+`<head>` contains `<styles>` and `<script>`
+`<body>` contains `<div>` tag
+`<script>` is making a map
